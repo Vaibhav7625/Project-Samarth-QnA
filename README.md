@@ -143,17 +143,17 @@ App will open at:
 
 ---
 
+### 6️⃣ Access the Live App
+
+You can access the deployed version of Project Samarth here:  
+👉 [Live Demo on Render](https://project-samarth-qna.onrender.com/)
+
+---
+
 ## 🎥 Loom Submission
 
 **Public Loom Link:**
 👉 [Add your 2-minute video link here]
-
-> In the video, demonstrate:
->
-> 1. The working Q&A interface
-> 2. How queries are processed end-to-end
-> 3. Code generation and result explanation
-> 4. The datasets and architecture decisions
 
 ---
 
